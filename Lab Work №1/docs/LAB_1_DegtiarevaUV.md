@@ -7,7 +7,7 @@
 | **Вариант** | Вариант №6 - Система регистрации и оплаты некредитных курсов университета |
 | **Постановка задачи** | [ссылка на «Возможные варианты.docx»](https://docs.google.com/document/d/1l9oZuIYZcej5SZnC7KZQ3wCePuF3-xnC/edit?usp=sharing&ouid=110915178635352012572&rtpof=true&sd=true) |
 | **Репозиторий** | [ссылка на GitHub](https://github.com/UlianaDegtiareva/Software-system-architecture-design.git) |
-| **Дата сдачи** | <дд.мм.гггг> |
+| **Дата сдачи** | 21.11.2026 |
 
 **Тема:** Анализ предметной области и формулирование требований к программной системе.
 
